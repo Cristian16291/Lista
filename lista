@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| TVE INTERNACIONAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TVE INTERNACIONAL HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1916
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP-4K| LA 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA1.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| LA 1 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1915
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP-4K| LA 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA2.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| LA 2 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1914
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP-4K| ANTENA 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ANTENA3.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| ANTENA 3 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1913
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP-4K| CUATRO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/E4.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CUATRO HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1912
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP-4K| TELECINCO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELECINCO.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TELECINCO HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1911
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP-4K| LA SEXTA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LASEXTA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| LA SEXTA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1910
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="|SP-4K| CANAL SUR A." tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALSURA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL SUR A.
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1909
+#EXTINF:-1 tvg-id="#0.es" tvg-name="|SP-4K| 0 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FOXNEWS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| 0 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1882
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP-4K| NOVA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NOVA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| NOVA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1908
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CANAL 24 HORAS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANAL24HORAS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL 24 HORAS
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1907
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP-4K| 24 HORAS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/24HORAS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| 24 HORAS
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1905
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP-4K| TVGA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TVGA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1904
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DARK" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DARK.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DARK
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412764
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP-4K| XTRM HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| XTRM HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/192239
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="|SP-4K| FDF" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FDF.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| FDF
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1903
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP-4K| CLAN TVE" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CLANTVE.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CLAN TVE
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1902
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP-4K| HOLLYWOOD HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| HOLLYWOOD HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1901
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP-4K| IBERALIA TV" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/IBERLIA%20TV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| IBERALIA TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1900
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| TV GALICIA FHD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TVGALICIA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TV GALICIA FHD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412518
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| TV GALICIA HEVC" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TVGALICIA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TV GALICIA HEVC
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412517
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| TELEMADRID FHD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TELEMADRID.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TELEMADRID FHD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412515
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP-4K| MEGA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MEGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| MEGA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1899
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP-4K| #VAMOS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/VAMOS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| #VAMOS HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1898
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP-4K| BABY TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BABYTV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BABY TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1896
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP-4K| BOING" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BOING.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BOING
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1895
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP-4K| CANAL PANDA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALPANDA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL PANDA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1894
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP-4K| COMEDYCENTRAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| COMEDYCENTRAL HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1893
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP-4K| DISNEY CH HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DISNEYCH.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DISNEY CH HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1892
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP-4K| DISNEY JR" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DISNEYJR.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DISNEY JR
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1891
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="|SP-4K| DREAMWORKS" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DREAMWORKS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DREAMWORKS
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1890
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP-4K| NICK JR" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NICKJR.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| NICK JR
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1889
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP-4K| NICKELODEON HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| NICKELODEON HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1887
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP-4K| FOX HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/FOXHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| FOX HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1885
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| FOX NEWS" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| FOX NEWS
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1883
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP-4K| AMC HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AMCHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| AMC HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1881
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| ARAGON TV INT" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/ARAGONTVINT.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| ARAGON TV INT
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1880
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP-4K| AXN" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AXN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| AXN
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1879
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| AXN HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AXN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| AXN HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1878
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP-4K| AXN WHITE HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AXNWHITE.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| AXN WHITE HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1877
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP-4K| SYFY HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/SYFY.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| SYFY HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1876
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP-4K| TCM HD" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TCM HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1875
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP-4K| TNT HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/TNTHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TNT HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1874
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP-4K| BE MAD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/BEMAD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BE MAD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1873
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP-4K| BLAZE" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/BLAZE.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BLAZE
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1872
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP-4K| CALLE 13 HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CALLE13HD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CALLE 13 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1871
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP-4K| CANAL COCINA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/cocina%20HD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL COCINA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1870
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP-4K| CANAL DECASA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CANALDECASA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL DECASA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1869
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CANAL ODISEA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/ODEISA%20HD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CANAL ODISEA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1868
+#EXTINF:-1 tvg-id="" tvg-name="|SP-8K| CANAL ODISEA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-8K| CANAL ODISEA 4K
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/435291
+#EXTINF:-1 tvg-id="" tvg-name="|SP-8K| CANAL DECASA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-8K| CANAL DECASA 4K
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/435290
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP-4K| CAZAYPESCA HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CAZAYPESCA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CAZAYPESCA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1867
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CLASSICA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CLASSICA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CLASSICA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1866
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP-4K| COSMO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COSMOHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| COSMO HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1865
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| CRIMEN INVES" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CRIMEN%20AND%20INVES.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| CRIMEN INVES
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1864
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP-4K| DIVINITY" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DIVINITY.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DIVINITY
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1863
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP-4K| ENERGY" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ENERGY.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| ENERGY
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1862
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| GOL MUNDIAL 1" tvg-logo="http://103.161.34.214:81/logos/1/GOL%20MUNDIAL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| GOL MUNDIAL 1
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/481545
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| GOL MUNDIAL 2" tvg-logo="http://103.161.34.214:81/logos/1/GOL%20MUNDIAL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| GOL MUNDIAL 2
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/481542
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| BEIN SPORTS EN ESPANOL" tvg-logo="http://logo.ottc.pro:8080/logos/1/beIN%20Sports%20EN%20ESPANOL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BEIN SPORTS EN ESPANOL
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/484773
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP-4K| M.LCAMPEONES" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.LCAMPEONES
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1860
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP-4K| M.LCAMPEONES BACKUP" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.LCAMPEONES BACKUP
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/353741
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN LALIGA" tvg-logo="http://103.161.34.214:81/logos/new%20logos/IT/DAZNLaLiga.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN LALIGA
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/419456
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN LALIGA 2" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN LALIGA 2
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/426350
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP-4K| M.LALIGA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.LALIGA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1857
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| LALIGA SMARTBANK TV" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| LALIGA SMARTBANK TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/428603
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| LALIGA SMARTBANK TV 1" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| LALIGA SMARTBANK TV 1
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/428602
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. FEST" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.FEST.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M. FEST
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412814
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP-4K| EUROSPORT1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| EUROSPORT1 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1855
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP-4K| EUROSPORT 1" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| EUROSPORT 1
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1854
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP-4K| EUROSPORT 2" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT2.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| EUROSPORT 2
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1853
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP-4K| TELEDEPORTE" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELEDEPORTE.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TELEDEPORTE
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1831
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP-4K| M.DEPORTES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.DEPORTES 1 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1832
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP-4K| M. DEPORTES HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M. DEPORTES HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1833
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M.DEPORTES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.DEPORTES 2 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/226591
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M.DEPORTES 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.DEPORTES 3 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/226592
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP-4K| GOL" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/GOL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| GOL
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1852
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|SP-4K| BAR TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BARTV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| BAR TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1851
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP-4K| R.MADRID TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/RMADRIDTV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| R.MADRID TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1850
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP-4K| TOROS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TOROSHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| TOROS HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1849
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| HORSE TV FHD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/HORSETV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| HORSE TV FHD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/412762
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|SP-4K| M.GOLF HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MGOLFHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.GOLF HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1846
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/31269
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/31271
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/31273
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN 1 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/41321
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN 2 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/41322
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN 3 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/157481
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN 4 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/157480
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN F1 ESPAÃ‘AÂ 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN F1 ESPAÃ‘AÂ 4K
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/414789
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| DAZN F1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| DAZN F1 HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/157479
+#EXTINF:-1 tvg-id="" tvg-name="|SP-8K| DAZN F1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP-8K| DAZN F1 4K
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/435292
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP-4K| M.ACCION HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MACCIONHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.ACCION HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1843
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP-4K| M.CINE ESPANOL" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCINEESPANOL.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.CINE ESPANOL
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1842
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP-4K| M.COMEDIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.COMEDIA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1841
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP-4K| M.DRAMA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDRAMAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.DRAMA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1840
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP-4K| M.ESTRENOS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MESTRENOSHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.ESTRENOS HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1839
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP-4K| M.SERIES HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.SERIES HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1836
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="|SP-4K| M.SERIESMANIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| M.SERIESMANIA HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1835
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| SOMOS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/SOMOS.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| SOMOS HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/300096
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP-4K| MTV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| MTV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1826
+#EXTINF:-1 tvg-id="" tvg-name="|SP-4K| MTV ESPAÂ¹A" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTVESPAA.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| MTV ESPAÂ¹A
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1824
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP-4K| SUNDANCE TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/SUNDANCETV.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| SUNDANCE TV
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1821
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP-4K| MEZZO" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MEZZO.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| MEZZO
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1830
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP-4K| MEZZO LIVE HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/Mezzolive.png" group-title="EU| ESPAÃ‘A 4K",|SP-4K| MEZZO LIVE HD
+http://crystal.ottc.pro:80/ODHRHBMCCI/RV1WHUKIZQ/1829
